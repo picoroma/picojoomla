@@ -27,9 +27,9 @@ echo "Cloning git from Alfielinux repo"
 
 cd
 
-git clone https://github.com/AlfieLinux/saltyjoomla.git 
+git clone https://github.com/picoroma/picojoomla.git
 
-cd saltyjoomla
+cd picojoomla
 
 echo "Running state.highstate, hopefully.."
 
