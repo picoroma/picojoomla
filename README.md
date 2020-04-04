@@ -1,10 +1,10 @@
-# saltyjoomla
+# PiCojoomla
 
-This module was created as the "final project" for [ICT4TN022 "Configuration Management Systems"](http://terokarvinen.com/2018/aikataulu--palvelinten-hallinta-ict4tn022-3004-ti-ja-3002-to--loppukevat-2018-5p) 
 
 This module is also under GPL Version 3 or later.
 
 Creator: Tuomas Olkinuora (2018)
+Modified by PiCo (2020)
 
 # What is Joomla you ask.
 
@@ -26,8 +26,8 @@ I made it so that you can manage the website settings yourself, since it only ta
 Glad you asked. You start by grabbing the bash "setup script" from my repo and running it in /home/xubuntu/
 
 ```bash
-§ wget https://raw.githubusercontent.com/AlfieLinux/saltyjoomla/master/saltyjoomla.sh
-§ bash saltyjoomla.sh
+§ wget https://raw.githubusercontent.com/picoroma/picojoomla/master/picojoomla.sh
+§ bash picojoomla.sh
 ```
 
 You can use whatever email, username, description and password you want for the superuser.
